@@ -1,4 +1,4 @@
-# turist.github.io
+# tourist.github.io
 
 # **Tourism Management System**
 
